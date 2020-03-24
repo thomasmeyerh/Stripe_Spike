@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://js.stripe.com/v3"></script>
+    <link rel="stylesheet" href="style.css" />
+
+</head>
+<body>
+<div class="">
+    <label >
+       <h1> Products </h1>
+    </label>
+    <div class="" id="products"></div>
+</div>
+</body>
+</html>
+
+<script>
+
+    const createNode = (elem) => {
+        return document.createElement(elem);
+    };
+
+    // append an element to parent
+    const appendNode = (parent, elem) => {
+        parent.appendChild(elem);
+    };
+
+    // List Element
+    const ul = document.querySelector('#products');
+
+
+    const url = 'https://localhost:5001/api/Plans/all';
+
+    // make the API call
+    fetch(url)
+        .then(res => res.json())
+        .then(data => {
+            console.log(data);
+            // iterate over users
+            data.plans.map((plan) => {
+                // create the elements
+                let p = createNode('p'),
+                    button = createNode('button');
+                button.id = plan.id;
+                button.innerText = plan.product.name;
+                button.style.backgroundColor = "lightblue";
+                button.style.borderRadius = '10px';
+                button.style.width = "200px";
+                button.style.fontSize = 'Large';
+                button.style.border = 'none';
+                button.style.cursor = 'pointer';
+
+                // append all elements
+                p.addEventListener("click", myScript);
+
+                appendNode(p, button);
+
+                appendNode(ul, p);
+            });
+        }).catch(err => {
+        console.error('Error: ', err);
+    });
+
+    const stripe = Stripe('pk_test_5zVongdsrAg2Pc9O8dgphdi300xh732MYo');
+
+
+    function myScript(e){
+        fetch('https://localhost:5001/api/Sessions/create-session', {
+            method: 'post',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({
+                planId: e.target.id
+
+            }),
+        }).then(function(result) {
+            return result.json();
+        }).then(function(data) {
+            stripe.redirectToCheckout({
+                // Make the id field from the Checkout Session creation API response
+                // available to this file, so you can provide it as parameter here
+                // instead of the {{CHECKOUT_SESSION_ID}} placeholder.
+                sessionId: data.session.id
+            }).then(function (result) {
+                // If `redirectToCheckout` fails due to a browser or network
+                // error, display the localized error message to your customer
+                // using `result.error.message`.
+            });
+        });
+    }
+
+</script>

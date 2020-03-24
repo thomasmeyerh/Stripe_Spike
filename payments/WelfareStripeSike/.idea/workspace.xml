@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0577cbda-1273-437b-b1fc-d15dfadb49b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="tsconfig.json" />
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1YfUUfFnzvG85KZMjcVhZe8bnmE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../checkout-subscription-and-add-on-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0577cbda-1273-437b-b1fc-d15dfadb49b2" name="Default Changelist" comment="" />
+      <created>1583333160285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583333160285</updated>
+      <workItem from="1583333163936" duration="4233000" />
+      <workItem from="1583400165718" duration="8171000" />
+      <workItem from="1583411419402" duration="8296000" />
+      <workItem from="1583482522384" duration="7189000" />
+      <workItem from="1583742394246" duration="2904000" />
+      <workItem from="1583833675661" duration="3674000" />
+      <workItem from="1583849563725" duration="46000" />
+      <workItem from="1583928262118" duration="602000" />
+      <workItem from="1583957513044" duration="633000" />
+      <workItem from="1584110466700" duration="145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583405096292">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state x="721" y="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3840.1160@0.0.3840.1160" timestamp="1583405096292" />
+    <state x="690" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583419022751">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state x="690" y="331" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3840.1160@0.0.3840.1160" timestamp="1583419022751" />
+    <state x="747" y="335" key="FileChooserDialogImpl" timestamp="1583336809756">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state x="747" y="335" key="FileChooserDialogImpl/0.0.3840.1160@0.0.3840.1160" timestamp="1583336809756" />
+    <state width="1896" height="318" key="GridCell.Tab.0.bottom" timestamp="1583408403798">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state width="1896" height="318" key="GridCell.Tab.0.bottom/0.0.3840.1160@0.0.3840.1160" timestamp="1583408403798" />
+    <state width="1896" height="318" key="GridCell.Tab.0.center" timestamp="1583408403797">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state width="1896" height="318" key="GridCell.Tab.0.center/0.0.3840.1160@0.0.3840.1160" timestamp="1583408403797" />
+    <state width="1896" height="318" key="GridCell.Tab.0.left" timestamp="1583408403797">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state width="1896" height="318" key="GridCell.Tab.0.left/0.0.3840.1160@0.0.3840.1160" timestamp="1583408403797" />
+    <state width="1896" height="318" key="GridCell.Tab.0.right" timestamp="1583408403797">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state width="1896" height="318" key="GridCell.Tab.0.right/0.0.3840.1160@0.0.3840.1160" timestamp="1583408403797" />
+    <state x="468" y="223" key="SettingsEditor" timestamp="1583400282524">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state x="468" y="223" key="SettingsEditor/0.0.3840.1160@0.0.3840.1160" timestamp="1583400282524" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1583417053458">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.3840.1160@0.0.3840.1160" timestamp="1583417053458" />
+    <state x="623" y="272" key="run.anything.popup" timestamp="1583403742852">
+      <screen x="0" y="0" width="3840" height="1160" />
+    </state>
+    <state x="623" y="272" key="run.anything.popup/0.0.3840.1160@0.0.3840.1160" timestamp="1583403742852" />
+  </component>
+</project>
