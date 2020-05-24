@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0577cbda-1273-437b-b1fc-d15dfadb49b2" name="Default Changelist" comment="" />
+    <list default="true" id="0577cbda-1273-437b-b1fc-d15dfadb49b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Payments/Sercives/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Payments/Sercives/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -26,33 +52,23 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1YfUUfFnzvG85KZMjcVhZe8bnmE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../checkout-subscription-and-add-on-master" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -74,11 +90,23 @@
       <workItem from="1583928262118" duration="602000" />
       <workItem from="1583957513044" duration="633000" />
       <workItem from="1584110466700" duration="145000" />
+      <workItem from="1588104006282" duration="2456000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="721" y="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583405096292">
@@ -93,22 +121,26 @@
       <screen x="0" y="0" width="3840" height="1160" />
     </state>
     <state x="747" y="335" key="FileChooserDialogImpl/0.0.3840.1160@0.0.3840.1160" timestamp="1583336809756" />
-    <state width="1896" height="318" key="GridCell.Tab.0.bottom" timestamp="1583408403798">
-      <screen x="0" y="0" width="3840" height="1160" />
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom" timestamp="1588353213979">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1896" height="318" key="GridCell.Tab.0.bottom/0.0.3840.1160@0.0.3840.1160" timestamp="1583408403798" />
-    <state width="1896" height="318" key="GridCell.Tab.0.center" timestamp="1583408403797">
-      <screen x="0" y="0" width="3840" height="1160" />
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1588353213979" />
+    <state width="1771" height="318" key="GridCell.Tab.0.center" timestamp="1588353213978">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1896" height="318" key="GridCell.Tab.0.center/0.0.3840.1160@0.0.3840.1160" timestamp="1583408403797" />
-    <state width="1896" height="318" key="GridCell.Tab.0.left" timestamp="1583408403797">
-      <screen x="0" y="0" width="3840" height="1160" />
+    <state width="1771" height="318" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1588353213978" />
+    <state width="1771" height="318" key="GridCell.Tab.0.left" timestamp="1588353213977">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1896" height="318" key="GridCell.Tab.0.left/0.0.3840.1160@0.0.3840.1160" timestamp="1583408403797" />
-    <state width="1896" height="318" key="GridCell.Tab.0.right" timestamp="1583408403797">
-      <screen x="0" y="0" width="3840" height="1160" />
+    <state width="1771" height="318" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1588353213977" />
+    <state width="1771" height="318" key="GridCell.Tab.0.right" timestamp="1588353213978">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1896" height="318" key="GridCell.Tab.0.right/0.0.3840.1160@0.0.3840.1160" timestamp="1583408403797" />
+    <state width="1771" height="318" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1588353213978" />
     <state x="468" y="223" key="SettingsEditor" timestamp="1583400282524">
       <screen x="0" y="0" width="3840" height="1160" />
     </state>

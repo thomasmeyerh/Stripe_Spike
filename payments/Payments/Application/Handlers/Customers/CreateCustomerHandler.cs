@@ -48,6 +48,7 @@ namespace Application.Handlers
 
             var options = new CustomerCreateOptions
             {
+                
                 Name = request.Model.Name,
                 Email = request.Model.Email
             };
