@@ -34,7 +34,7 @@ namespace Application.Handlers.Invoices
         {
             if (request == null)
             {
-                throw new ArgumentNullException(nameof(request))
+                throw new ArgumentNullException(nameof(request));
             }
 
             var options = new InvoiceListOptions
