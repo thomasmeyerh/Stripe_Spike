@@ -18,7 +18,7 @@ namespace Application.Gateways
         
         public bool CreateItem(string itemName)
         {
-            var request = new RestRequest( Method.POST);
+            var request = new RestRequest( Method.P
             var sub = new SubscriptionDTO() {Name = itemName};
             request.AddJsonBody(sub);
             var response = c.Execute(request);
